@@ -68,7 +68,7 @@ class HistoryDeathSkill(MycroftSkill):
         json_output = req.json()
         output = json_output['data']
         deathhistory = output['Deaths']
-        self.speak("This is a test)
+        self.speak("Today in history {} died".format(deathhistory[0]['text']))
 
 
     # The "stop" method defines what Mycroft does when told to stop during
