@@ -1,6 +1,9 @@
-This skill will read back someone who died that day in history. It shows the use
-of the API that Mycroft offers and the use of a web API called Today In History.
+# Today in History
 
-Coded with the Skill Template
+Uses http://history.muffinlabs.com api to find out what happened today in history
 
-Author Steven Ohrdorf
+## Examples
+
+- who was born today in history
+- who died today in history
+- what happened today in history

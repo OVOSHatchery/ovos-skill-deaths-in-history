@@ -1,0 +1,11 @@
+{
+    "events_in_history.intent": [
+        "what happened today in history"
+    ],
+    "deaths_in_history.intent": [
+        "who died today in history"
+    ],
+    "births_in_history.intent": [
+        "who was born today in history"
+    ]
+}

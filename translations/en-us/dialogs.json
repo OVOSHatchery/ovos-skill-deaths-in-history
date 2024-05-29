@@ -1,0 +1,11 @@
+{
+    "born_this_date.dialog": [
+        "Today in history {person} was born"
+    ],
+    "died_this_date.dialog": [
+        "Today in history {person} died"
+    ],
+    "today_in_history.dialog": [
+        "Today in history {person} died"
+    ]
+}

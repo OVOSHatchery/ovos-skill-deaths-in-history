@@ -1,7 +1,0 @@
-{
-  "utterance": "who died today in history",
-  "intent_type": "RandomEventIntent",
-  "intent": {
-    "RandomEventKeyword": "who died today in history"
-  }
-}
