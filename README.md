@@ -7,3 +7,7 @@ Uses http://history.muffinlabs.com api to find out what happened today in histor
 - who was born today in history
 - who died today in history
 - what happened today in history
+
+## Alternative Skill
+
+https://github.com/OpenVoiceOS/ovos-skill-days-in-history
